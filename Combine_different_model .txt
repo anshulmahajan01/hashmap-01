@@ -1,0 +1,10 @@
+neuron j in Figure 9.10 are linearly combined to give
+Zj = bj + L Wi,jXii=
+l
+In the hidden layer, this is then modified using a nonlinear
+function such as a sigmoid,
+1
+s(z)=--,
+1 + e-z
+to give the input for the next layer.
+
